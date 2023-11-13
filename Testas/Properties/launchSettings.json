@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Testas (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Testas (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
